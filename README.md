@@ -1,4 +1,28 @@
-### Hi there 👋
+<div style="margin: auto;">
+  <img src="https://kidspirit.oregonstate.edu/sites/kidspirit.oregonstate.edu/files/low_res_cover_updated_.png">
+</div>
+<h1>KidSpirit @ Oregon State University</h1>
+<h2>A 4-H Youth Program | Sports | Art | Science | Cooking</h2>
+<hr>
+
+# Fall Term Program Now Open For Registration!
+
+## Program Available
+
+### Archery - Filling Fast!!!
+
+| Level | Pricing |
+|-------|---------|
+| Beginner | $70 |
+| Advanced | $100 |
+
+### Gymnastics
+
+### Cooking Academy
+
+### BASE Camp - Coming Soon
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **KidSpirit/KidSpirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
